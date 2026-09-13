@@ -28,6 +28,8 @@ Current enclosure release: **v1.1**.
 
 The assembled STEP is the authoritative v1.1 geometry. The STL files are the ready-to-print deliverables.
 
+Part filenames use installed machine position, viewed from the front/operator side of the printer.
+
 ## Configuration warning
 
 The files in `klipper/` are reference material for this specific machine. They are not a universal drop-in configuration. Verify the board revision, pin assignments, thermistor types, motor directions, travel limits, probe offsets, heater behavior, and emergency shutdown before moving any axis or heating anything.

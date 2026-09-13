@@ -14,12 +14,12 @@
 - Shell_Left_Rear x Shell_Right_Rear: **0.000000000 mm³**
 
 ## Main print-ready STLs
-- `Shell_Left_Front.stl`: watertight=True, components=1, extents=[179.85, 182.8, 42.6] mm, on-bed=True, 220×220×240-fit=True
-- `Shell_Right_Front.stl`: watertight=True, components=1, extents=[179.85, 180.0, 42.6] mm, on-bed=True, 220×220×240-fit=True
+- `Shell_Left_Front.stl`: watertight=True, components=1, extents=[179.85, 180.0, 42.6] mm, on-bed=True, 220×220×240-fit=True
+- `Shell_Right_Front.stl`: watertight=True, components=1, extents=[179.85, 182.8, 42.6] mm, on-bed=True, 220×220×240-fit=True
 - `Shell_Left_Rear.stl`: watertight=True, components=1, on-bed=True, 220×220×240-fit=True
 - `Shell_Right_Rear.stl`: watertight=True, components=1, on-bed=True, 220×220×240-fit=True
-- `Lid_Left_Front.stl`: watertight=True, components=1, extents=[159.4, 169.4, 2.4] mm, on-bed=True, 220×220×240-fit=True
-- `Lid_Right_Front_PSU.stl`: watertight=True, components=1, extents=[159.4, 169.4, 11.1] mm, on-bed=True, 220×220×240-fit=True
+- `Lid_Left_Front_PSU.stl`: watertight=True, components=1, extents=[159.4, 169.4, 11.1] mm, on-bed=True, 220×220×240-fit=True
+- `Lid_Right_Front.stl`: watertight=True, components=1, extents=[159.4, 169.4, 2.4] mm, on-bed=True, 220×220×240-fit=True
 - `Lid_Left_Rear.stl`: watertight=True, components=1, extents=[159.4, 189.4, 2.4] mm, on-bed=True, 220×220×240-fit=True
 - `Lid_Right_Rear.stl`: watertight=True, components=1, extents=[159.4, 189.4, 2.4] mm, on-bed=True, 220×220×240-fit=True
 - `Center_Support.stl`: watertight=True, components=1, extents=[72.0, 52.0, 40.2] mm, on-bed=True, 220×220×240-fit=True

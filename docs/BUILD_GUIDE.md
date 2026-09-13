@@ -25,6 +25,8 @@ Print-ready STL files are in:
 
 The case is designed around a 45 mm closed height so the top sits flush with the top of the lower frame extrusions while maintaining about 5 mm of ground clearance with 30 mm feet.
 
+Part filenames use installed machine position, viewed from the front/operator side of the printer.
+
 ## Printing baseline
 
 - 0.4 mm nozzle

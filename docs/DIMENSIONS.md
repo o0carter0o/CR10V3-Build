@@ -20,10 +20,12 @@
 
 ## V1.1 interface changes
 
-- Right Rear rear keystone replaced by a second Ø17 mm grommet opening.
+- Left Rear rear keystone replaced by a second Ø17 mm grommet opening.
 - Robin Nano mounting now uses four 5 mm spacers in either board position.
-- Left Rear keystone moved slightly toward machine center and uses an internal snap-fit cage with a 45° printable underside.
-- Left Rear includes a Ø4.5 mm frame-bond access hole and protective-earth symbol.
+- Right Rear keystone moved slightly toward machine center and uses an internal snap-fit cage with a 45° printable underside.
+- Right Rear includes a Ø4.5 mm frame-bond access hole and protective-earth symbol.
+
+Part filenames use installed machine position, viewed from the front/operator side of the printer.
 
 ## Locked vertical-wall cable-tie anchor
 

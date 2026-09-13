@@ -30,18 +30,18 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 2849,
-      "sha256": "547b6244dad9f28e4fce1504800777d7cf16e868546ea7ab19ccd30dd591627d"
+      "size_bytes": 2949,
+      "sha256": "60e44f520e7fabd79ce6a3ffc4b7b543bd255577edc676a972cc2179321cab9a"
     },
     {
       "path": "docs/BUILD_GUIDE.md",
-      "size_bytes": 1907,
-      "sha256": "94dee23e8ee3ff69fd9e6866f211c45dff62df59015442190adc867d1cc4010f"
+      "size_bytes": 2007,
+      "sha256": "3497804532a73316b92ba953c0eaa8c9a93e3918a1c8fb0406a7f5b2c464885a"
     },
     {
       "path": "docs/DIMENSIONS.md",
-      "size_bytes": 1612,
-      "sha256": "3f6deeffcdc7acc1cbd53555f4bb74654cbe15e4fa425a094a0c484c7bf3b19b"
+      "size_bytes": 1713,
+      "sha256": "baa505e2758c1677d73a34c1374376142aad4a93b7065f95ed420b1e86575302"
     },
     {
       "path": "docs/ENCLOSURE_BOM.md",
@@ -50,18 +50,18 @@
     },
     {
       "path": "docs/ENCLOSURE_NOTES.md",
-      "size_bytes": 2182,
-      "sha256": "3c7b3760216967090c043c4429456071ab53a813b2a9a489f7bbd02fbb6b8aa9"
+      "size_bytes": 2403,
+      "sha256": "0c74559925ea62652d9e28d11e48087bb7779f2ab636cedfb2bee5004b5123d4"
     },
     {
       "path": "docs/V1.1_RELEASE.json",
-      "size_bytes": 635,
-      "sha256": "5fbe1c91b0c89ef5adb638aeb9a5dcdea5a9dc4b5fd711ba8be94b2c88a63de3"
+      "size_bytes": 742,
+      "sha256": "5f470a7afb50b674a4ae898caaaef93913770950773a69eee79423f14292d549"
     },
     {
       "path": "docs/VALIDATION.md",
       "size_bytes": 1731,
-      "sha256": "af47e6f04054583e9223611e78f48781c673d6f2a5750df04151239f2f6f67a8"
+      "sha256": "0d0cefa4235ee559afeee65dc49691bb79ba13ac56ce6ec8545513f397dd995d"
     },
     {
       "path": "docs/WIRING.md",
@@ -159,44 +159,44 @@
       "sha256": "8384326dbd70fcc6eddd2b2e05ab442691aa6bff881a4400837358b831b45530"
     },
     {
-      "path": "enclosure/STEP/parts_global/Lid_Left_Front_GLOBAL.step",
-      "size_bytes": 30087,
-      "sha256": "75362617f725f948d086c32a0bba534ba65c6f7e2d6ca4be59a17faa68a0ea0e"
-    },
-    {
-      "path": "enclosure/STEP/parts_global/Lid_Left_Rear_GLOBAL.step",
-      "size_bytes": 2152096,
-      "sha256": "b078165485b462c5c4cb6372245378e0a836adc62c7afd11132275c86c1b2995"
-    },
-    {
-      "path": "enclosure/STEP/parts_global/Lid_Right_Front_PSU_GLOBAL.step",
+      "path": "enclosure/STEP/parts_global/Lid_Left_Front_PSU_GLOBAL.step",
       "size_bytes": 885652,
       "sha256": "fbf9cb6507c509500ba53daeb44d3b6e7fb53054a3858834a9dc89e647516033"
     },
     {
-      "path": "enclosure/STEP/parts_global/Lid_Right_Rear_GLOBAL.step",
+      "path": "enclosure/STEP/parts_global/Lid_Left_Rear_GLOBAL.step",
       "size_bytes": 2154448,
       "sha256": "62f50292d78427a946f4e8cd3f0f24774303bfef118054b01f4042c18bfc43d5"
     },
     {
+      "path": "enclosure/STEP/parts_global/Lid_Right_Front_GLOBAL.step",
+      "size_bytes": 30087,
+      "sha256": "75362617f725f948d086c32a0bba534ba65c6f7e2d6ca4be59a17faa68a0ea0e"
+    },
+    {
+      "path": "enclosure/STEP/parts_global/Lid_Right_Rear_GLOBAL.step",
+      "size_bytes": 2152096,
+      "sha256": "b078165485b462c5c4cb6372245378e0a836adc62c7afd11132275c86c1b2995"
+    },
+    {
       "path": "enclosure/STEP/parts_global/Shell_Left_Front_GLOBAL.step",
-      "size_bytes": 1720534,
-      "sha256": "e3f722f47b9d21519bd61c60f3f60ee7f4ff7f8a3eab045aafe954557cc21bdf"
-    },
-    {
-      "path": "enclosure/STEP/parts_global/Shell_Left_Rear_GLOBAL.step",
-      "size_bytes": 3790787,
-      "sha256": "bb44e0952baa420d40cda33978c360d0a0702bb70a39484f7343268afaa70bca"
-    },
-    {
-      "path": "enclosure/STEP/parts_global/Shell_Right_Front_GLOBAL.step",
       "size_bytes": 2058290,
       "sha256": "d613bfa5dcdb652afca1688eaac181bf889ff27a6bbeaaaee66ce7c7b1fdca89"
     },
     {
-      "path": "enclosure/STEP/parts_global/Shell_Right_Rear_GLOBAL.step",
+      "path": "enclosure/STEP/parts_global/Shell_Left_Rear_GLOBAL.step",
       "size_bytes": 5023342,
       "sha256": "13a954cfe5c4eae9b0ed18ebe67292ae2758359a494e8da0b6a1315b7504408d"
+    },
+    {
+      "path": "enclosure/STEP/parts_global/Shell_Right_Front_GLOBAL.step",
+      "size_bytes": 1720534,
+      "sha256": "e3f722f47b9d21519bd61c60f3f60ee7f4ff7f8a3eab045aafe954557cc21bdf"
+    },
+    {
+      "path": "enclosure/STEP/parts_global/Shell_Right_Rear_GLOBAL.step",
+      "size_bytes": 3790787,
+      "sha256": "bb44e0952baa420d40cda33978c360d0a0702bb70a39484f7343268afaa70bca"
     },
     {
       "path": "enclosure/STEP/parts_print_orientation/Center_Support.step",
@@ -204,44 +204,44 @@
       "sha256": "76c5d87af0519575d01ff51233997c2c2e21e764861d6bad42cb2fbda248e9c2"
     },
     {
-      "path": "enclosure/STEP/parts_print_orientation/Lid_Left_Front.step",
-      "size_bytes": 30306,
-      "sha256": "8dfe4399b29171d3bd3c6b292c8d1831cc8b7e2a8a928feff662388201fe765d"
-    },
-    {
-      "path": "enclosure/STEP/parts_print_orientation/Lid_Left_Rear.step",
-      "size_bytes": 2148942,
-      "sha256": "fced1269bc9ad601145eef07a93be8dec7c9412385db59d494dd2c6a54b254cc"
-    },
-    {
-      "path": "enclosure/STEP/parts_print_orientation/Lid_Right_Front_PSU.step",
+      "path": "enclosure/STEP/parts_print_orientation/Lid_Left_Front_PSU.step",
       "size_bytes": 884644,
       "sha256": "01650645ed0e32cfa2aabc49e2d0ddcb3519d87a5509d60217be9875d57dc4b4"
     },
     {
-      "path": "enclosure/STEP/parts_print_orientation/Lid_Right_Rear.step",
+      "path": "enclosure/STEP/parts_print_orientation/Lid_Left_Rear.step",
       "size_bytes": 2148978,
       "sha256": "0fcecd244a667bb96776f14c642236537a484f85d82bdb5e05f397106f2a3997"
     },
     {
+      "path": "enclosure/STEP/parts_print_orientation/Lid_Right_Front.step",
+      "size_bytes": 30306,
+      "sha256": "8dfe4399b29171d3bd3c6b292c8d1831cc8b7e2a8a928feff662388201fe765d"
+    },
+    {
+      "path": "enclosure/STEP/parts_print_orientation/Lid_Right_Rear.step",
+      "size_bytes": 2148942,
+      "sha256": "fced1269bc9ad601145eef07a93be8dec7c9412385db59d494dd2c6a54b254cc"
+    },
+    {
       "path": "enclosure/STEP/parts_print_orientation/Shell_Left_Front.step",
-      "size_bytes": 1753774,
-      "sha256": "c6c4971c433dd8ada9656379624238923ad8f06e0eef82a5c05eaa5f6a54c973"
-    },
-    {
-      "path": "enclosure/STEP/parts_print_orientation/Shell_Left_Rear.step",
-      "size_bytes": 3786017,
-      "sha256": "eb43a08fab8eeae255b13d828de1cac78b7dae842a5b6ed6c4024986907ee941"
-    },
-    {
-      "path": "enclosure/STEP/parts_print_orientation/Shell_Right_Front.step",
       "size_bytes": 2090267,
       "sha256": "4d4477570e816e23006eb10ba385c0496a6ff771273732a536fc5f49bf1be467"
     },
     {
-      "path": "enclosure/STEP/parts_print_orientation/Shell_Right_Rear.step",
+      "path": "enclosure/STEP/parts_print_orientation/Shell_Left_Rear.step",
       "size_bytes": 5011951,
       "sha256": "087229d3a29c177e716421ffd7617fa3706a78ca579fcd5718335d036a43d15d"
+    },
+    {
+      "path": "enclosure/STEP/parts_print_orientation/Shell_Right_Front.step",
+      "size_bytes": 1753774,
+      "sha256": "c6c4971c433dd8ada9656379624238923ad8f06e0eef82a5c05eaa5f6a54c973"
+    },
+    {
+      "path": "enclosure/STEP/parts_print_orientation/Shell_Right_Rear.step",
+      "size_bytes": 3786017,
+      "sha256": "eb43a08fab8eeae255b13d828de1cac78b7dae842a5b6ed6c4024986907ee941"
     },
     {
       "path": "enclosure/STL/print_ready/Center_Support.stl",
@@ -249,44 +249,44 @@
       "sha256": "32e1ab30a66db2ce8e1d1f1d207a150d3b0fd1ff6c0b0eec274b30ba7740ace8"
     },
     {
-      "path": "enclosure/STL/print_ready/Lid_Left_Front.stl",
-      "size_bytes": 85484,
-      "sha256": "90e1aacb8493f1837faf9d8d15e95fdd70a8a8aa9142b84ac85fd273d997f096"
-    },
-    {
-      "path": "enclosure/STL/print_ready/Lid_Left_Rear.stl",
-      "size_bytes": 211484,
-      "sha256": "6947d1dc08982325d5bbb65f2adf51ebc90bb4834cb9fadd18aa90bc55c92b8f"
-    },
-    {
-      "path": "enclosure/STL/print_ready/Lid_Right_Front_PSU.stl",
+      "path": "enclosure/STL/print_ready/Lid_Left_Front_PSU.stl",
       "size_bytes": 179284,
       "sha256": "62d7c0f2a5b97977498e8b0e1195635260e0e51be7b5e801b0d3bdca2b8b49cc"
     },
     {
-      "path": "enclosure/STL/print_ready/Lid_Right_Rear.stl",
+      "path": "enclosure/STL/print_ready/Lid_Left_Rear.stl",
       "size_bytes": 211484,
       "sha256": "2de42bdf1710e5ed2215e8e9cfc84116a46b10ba4f485dba8b42339bd0586aa2"
     },
     {
+      "path": "enclosure/STL/print_ready/Lid_Right_Front.stl",
+      "size_bytes": 85484,
+      "sha256": "90e1aacb8493f1837faf9d8d15e95fdd70a8a8aa9142b84ac85fd273d997f096"
+    },
+    {
+      "path": "enclosure/STL/print_ready/Lid_Right_Rear.stl",
+      "size_bytes": 211484,
+      "sha256": "6947d1dc08982325d5bbb65f2adf51ebc90bb4834cb9fadd18aa90bc55c92b8f"
+    },
+    {
       "path": "enclosure/STL/print_ready/Shell_Left_Front.stl",
-      "size_bytes": 1188384,
-      "sha256": "9e608aae93d099becf89631cd8015463e27052e1e944c49bad146cb898ef1745"
-    },
-    {
-      "path": "enclosure/STL/print_ready/Shell_Left_Rear.stl",
-      "size_bytes": 4183584,
-      "sha256": "49b7f79c01501ac87632ffdd46a4b7fe5076854e2a74fb2f671aea2b7c1be29e"
-    },
-    {
-      "path": "enclosure/STL/print_ready/Shell_Right_Front.stl",
       "size_bytes": 1127684,
       "sha256": "9e93b5a128bc4aa5777943dcca75861e74958615aa78579aef3bd057f9cf524b"
     },
     {
-      "path": "enclosure/STL/print_ready/Shell_Right_Rear.stl",
+      "path": "enclosure/STL/print_ready/Shell_Left_Rear.stl",
       "size_bytes": 4965284,
       "sha256": "567a5f58125a81a48df2b4ab56c0126e85d45ca3225c44e8ea922bb928a7321f"
+    },
+    {
+      "path": "enclosure/STL/print_ready/Shell_Right_Front.stl",
+      "size_bytes": 1188384,
+      "sha256": "9e608aae93d099becf89631cd8015463e27052e1e944c49bad146cb898ef1745"
+    },
+    {
+      "path": "enclosure/STL/print_ready/Shell_Right_Rear.stl",
+      "size_bytes": 4183584,
+      "sha256": "49b7f79c01501ac87632ffdd46a4b7fe5076854e2a74fb2f671aea2b7c1be29e"
     },
     {
       "path": "klipper/README.md",

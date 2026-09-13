@@ -2,10 +2,12 @@
 
 ## Changes from V1.0
 
-- Right Rear: rear keystone replaced by a second Ø17 mm grommet opening.
+- Left Rear: rear keystone replaced by a second Ø17 mm grommet opening.
 - Robin Nano: all eight optional mounting bosses now use the short geometry; use four 5 mm spacers in either board position.
-- Left Rear: keystone moved slightly toward machine center and given an internal snap-fit cage with a 45° printable underside.
-- Left Rear: added a Ø4.5 mm frame-bond access hole and protective-earth symbol.
+- Right Rear: keystone moved slightly toward machine center and given an internal snap-fit cage with a 45° printable underside.
+- Right Rear: added a Ø4.5 mm frame-bond access hole and protective-earth symbol.
+
+Part filenames use installed machine position, viewed from the front/operator side of the printer. Earlier internal CAD/package naming had left and right reversed; this repo uses the corrected installed-position names.
 
 ## Assembly notes
 
