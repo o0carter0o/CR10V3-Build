@@ -1,22 +1,24 @@
-# Enclosure Notes
+# V1.1 Notes
 
-V1.0 is the first public release of the CR-10 V3 under-frame electronics enclosure.
+## Changes from V1.0
 
-## Included model sets
+- Right Rear: rear keystone replaced by a second Ø17 mm grommet opening.
+- Robin Nano: all eight optional mounting bosses now use the short geometry; use four 5 mm spacers in either board position.
+- Left Rear: keystone moved slightly toward machine center and given an internal snap-fit cage with a 45° printable underside.
+- Left Rear: added a Ø4.5 mm frame-bond access hole and protective-earth symbol.
 
-| Folder | Purpose |
-|---|---|
-| `enclosure/STL/print_ready/` | Parts to slice and print |
-| `enclosure/STEP/assembled/` | Full installed assembly |
-| `enclosure/STEP/parts_print_orientation/` | Individual editable parts in print orientation |
-| `enclosure/STEP/parts_global/` | Individual editable parts in installed/global coordinates |
-| `enclosure/Accessories/` | Blanks, spacers, and adapter parts |
+## Assembly notes
 
-## Release notes
+- Insert the Left Rear keystone from inside the enclosure toward the exterior.
+- The built-in zip-tie anchors are intended to print without support. Avoid support material inside the tie channels; it adds cleanup risk without helping the final part.
+- Use the supplied print orientation for the shell quadrants and lids.
+- Direct-thread the printed pilots carefully. Start screws square to the hole and avoid over-tightening.
+- The center support clamps the inner quadrant corners to the central 20×40 extrusion from inside the enclosure.
+- Twist the internal switched Line and Neutral run from the inlet/switch area to the PSU.
+- Twist or closely couple the internal `+24 V / 0 V` pair from the PSU to the Robin Nano.
+- If the keystone carries normal data, an inlet-mounted EMI filter or grounded L-shaped steel divider may be added if desired.
+- If Cat6 carries steppers/endstops, keep each motor coil on one twisted pair and place endstop signal/ground on their own pair.
 
-- Four-quadrant under-frame enclosure for CR-10 V3.
-- Reuses OEM AC inlet, power switch, and heated-bed pass-through connector.
-- Includes MKS Robin Nano v3.1, Raspberry Pi 3B/3B+, MKS TS35 v2.0, PSU, fan, keystone, and cable-routing features.
-- Uses direct-thread printed pilots for most fasteners.
-- Published package intentionally excludes the earlier feature-test coupon.
+Frame bonding is an optional retrofit in this design and is strongly encouraged when modifying the mains enclosure. The designer's personal solution is a suitable self-tapping screw through the marked hole into the extrusion V-channel with a ring terminal and toothed washer. This permanently marks/cuts the extrusion and is not readily reversible.
 
+Alternatives include enlarging the access for a conductive T-nut and ring terminal, drilling and tapping the frame, routing the bonding wire to another suitable frame location, or bonding the grounded PSU chassis to the printer frame. Any method must make reliable metal-to-metal contact; verify continuity after assembly. Mains work should be performed only by someone qualified to do it.

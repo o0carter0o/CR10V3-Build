@@ -33,8 +33,9 @@ The PA8 pin is the square pin on the referenced board diagram used during the bu
 - Main PSU: 24 VDC output from Mean Well LRS-350-24
 - Raspberry Pi power preference: dedicated 24 V to 5 V buck converter
 - Case fans: planned through a 24 V to 12 V buck when using 12 V fans
+- Twist or closely couple the switched AC line/neutral run and the PSU-to-controller 24 V/0 V pair where practical.
+- Keep low-voltage signal wiring and mains wiring on separate paths inside the enclosure.
 
 ## Safety
 
 This enclosure contains mains voltage. Use insulated terminals, appropriate wire gauge, proper strain relief, protective earth bonding, fusing, and separation between mains and low-voltage wiring.
-

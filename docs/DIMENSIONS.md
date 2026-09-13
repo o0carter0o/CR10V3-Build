@@ -1,6 +1,6 @@
-# V1.0 key dimensions and interfaces
+# V1.1 key dimensions and interfaces
 
-- Development source revision: R42
+- Development source revision: V1.1 publication package
 - Closed enclosure height: 45.0 mm
 - Shell height: 42.6 mm
 - Nominal wall thickness: 3.2 mm
@@ -17,6 +17,13 @@
 - Raw-cable entry edge fillets: R0.75 mm at the approved five openings and local raceway mouths
 - Rear bonding peg/socket XY clearance: 0.20 mm per side (0.40 mm diametral)
 - Rear bonding hardware: M4×10
+
+## V1.1 interface changes
+
+- Right Rear rear keystone replaced by a second Ø17 mm grommet opening.
+- Robin Nano mounting now uses four 5 mm spacers in either board position.
+- Left Rear keystone moved slightly toward machine center and uses an internal snap-fit cage with a 45° printable underside.
+- Left Rear includes a Ø4.5 mm frame-bond access hole and protective-earth symbol.
 
 ## Locked vertical-wall cable-tie anchor
 

@@ -2,7 +2,7 @@
 
 This repository documents a CR-10 V3 conversion built around an MKS Robin Nano v3.1, independent dual Z, a Micro Swiss NG direct-drive extruder, CR Touch, and a four-piece printed under-frame electronics enclosure.
 
-The enclosure geometry that was developed privately as V1.1 is the first public release and is versioned here as **v1.0**.
+Current enclosure release: **v1.1**.
 
 ## Repository contents
 
@@ -26,7 +26,7 @@ The enclosure geometry that was developed privately as V1.1 is the first public 
 - Print the main parts in the supplied orientation
 - The main parts are designed to print without supports
 
-The assembled STEP is the authoritative v1.0 geometry. The STL files are the ready-to-print deliverables.
+The assembled STEP is the authoritative v1.1 geometry. The STL files are the ready-to-print deliverables.
 
 ## Configuration warning
 

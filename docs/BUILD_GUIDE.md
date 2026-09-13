@@ -15,9 +15,9 @@ This build converts a CR-10 V3 from the external OEM electronics box to an under
 
 ## Enclosure
 
-The enclosure is split into four printed shell quadrants plus four lids and a center support. The assembled STEP is the source of truth for the released V1.0 geometry:
+The enclosure is split into four printed shell quadrants plus four lids and a center support. The assembled STEP is the source of truth for the released V1.1 geometry:
 
-`enclosure/STEP/assembled/CR10V3_Control_Box_V1.0_Assembled.step`
+`enclosure/STEP/assembled/CR10V3_Control_Box_V1.1_Assembled.step`
 
 Print-ready STL files are in:
 
@@ -33,15 +33,16 @@ The case is designed around a 45 mm closed height so the top sits flush with the
 - At least 4 walls/perimeters
 - At least 5 top and bottom layers
 - Print the parts in the supplied STL orientation
+- Do not add supports for the built-in zip-tie anchors; the anchor roof geometry was designed around short spans and angled faces.
 
 Inspect screw pilots before assembly. The design uses direct-thread printed holes, not heat-set inserts.
 
 ## Assembly notes
 
 - Mount the PSU directly through the enclosure ceiling.
+- Use short PSU screws and verify they cannot penetrate too far into the power supply.
 - Use M4 hardware and T-nuts for the frame mounts and center support clamp.
 - Use M3 hardware for lids, board mounts, fans, and printed accessories unless noted otherwise.
 - Use M2.5 hardware for the Raspberry Pi.
 - Keep AC mains wiring physically separated from low-voltage and signal wiring.
 - Check continuity, strain relief, earth bonding, and insulation before applying mains power.
-

@@ -1,0 +1,12 @@
+{
+  "release": "v1.1",
+  "source_package": "CR10V3_Control_Box_V1.1_FULL_PACKAGE",
+  "assembled_step": "enclosure/STEP/assembled/CR10V3_Control_Box_V1.1_Assembled.step",
+  "assembled_step_sha256": "dbb14a18ec21b83e18e4bfb6b02dfbb968d4819d58f147e674b58dc16fda51fa",
+  "notes": [
+    "Right Rear rear keystone replaced by second 17 mm grommet opening.",
+    "Robin Nano mounting uses four 5 mm spacers in either board position.",
+    "Left Rear keystone moved toward machine center with internal snap-fit cage and 45 degree printable underside.",
+    "Left Rear includes 4.5 mm frame-bond access hole and protective-earth symbol."
+  ]
+}

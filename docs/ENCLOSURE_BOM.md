@@ -1,24 +1,37 @@
-# Hardware BOM — V1.0
+# Hardware BOM — V1.1
 
-| Use | Qty | Preferred hardware | Notes |
-|---|---:|---|---|
-| Four lids | 16 | M3×8 | Direct-thread into printed pilots with entry lead-ins |
-| MKS Robin Nano | 4 | M3×8 | Direct-thread mounting |
-| Robin Position-B spacers | 2 | Included 5 mm spacers | Use only for Position B |
-| Raspberry Pi 3B/3B+ | 4 | M2.5×5 | Approximately M2.5×4–8 acceptable |
-| PSU-control board | 4 | M3×8 | Direct-thread mounting |
-| Mean Well LRS-350-24 PSU | 4 | M4×4 | Maintain conservative PSU penetration |
-| Exterior frame mounts | 4 | M4×10 + T-nuts | Ø4.5 mm clearance holes |
-| Center-support/frame clamps | 4 | M4×10 + T-nuts | Driven from inside enclosure |
-| Rear quadrant bonding bridge | 1 | M4×10 | Counterbored bridge; peg/socket registration; direct-thread receiving boss |
-| Optional center-support adapter | 4 | M3×8 nominal | Adapter has M3 clearance; support uses direct-thread pilots |
+## Main components
 
-## Hole / pilot standards
+| Qty | Component |
+|---:|---|
+| 1 | MKS Robin Nano v3.1 |
+| 1 | Mean Well LRS-350-24 PSU |
+| 1 | MKS TS35 v2.0 display |
+| 1 | Raspberry Pi 3B/3B+ (optional) |
+| 3 | 40 mm case fans; thickness and voltage to suit the build |
+| 1 | OEM IEC inlet |
+| 1 | OEM rocker switch |
+| 1 | OEM heated-bed connector |
+| 2 | OEM-style grommets for the Ø17 mm cable entries |
+| 1 | Keystone jack or included blank (optional) |
 
-- M3 direct-thread pilot: Ø2.6 mm with entry lead-in where applicable
-- M2.5 direct-thread pilot: Ø2.2 mm
-- M3 clearance: Ø3.2 mm where specifically modeled
-- M4/T-nut clearance: Ø4.5 mm
-- OEM-grommet X-axis harness opening: Ø17 mm
+## Fasteners
 
-Fan screw length depends on the actual fan thickness. Do not use a screw long enough to bottom in a blind printed pilot.
+| Qty | Hardware | Use |
+|---:|---|---|
+| 16 | M3×8 | Four lids |
+| 4 | M3×10 | Robin Nano through the included 5 mm spacers |
+| 4 | M2.5×5 | Raspberry Pi |
+| 4 | M3×8 | PSU-control board |
+| 4 | M4×4 | PSU mounting; avoid excessive penetration |
+| 8 | M4×10 plus T-nuts | Four exterior mounts and four center-support clamps |
+| 1 | M4×10 | Rear quadrant bonding bridge |
+| 9 | M3, length to suit fan thickness | Three screws per fan |
+| 4 | M3×8 nominal | Optional center-support adapter |
+
+## Printed accessories
+
+Print four `Robin_Nano_Spacer_5mm_M3` spacers for either motherboard position. A ready-to-print 4× set is included.
+
+Pilot standards: M3 direct-thread Ø2.6 mm; M2.5 direct-thread Ø2.2 mm; M4/T-nut clearance Ø4.5 mm.
+
