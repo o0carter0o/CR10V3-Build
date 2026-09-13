@@ -11,7 +11,7 @@ The enclosure geometry that was developed privately as V1.1 is the first public 
 - [`enclosure/STEP/parts_print_orientation`](enclosure/STEP/parts_print_orientation) — editable individual parts oriented for printing
 - [`enclosure/STEP/parts_global`](enclosure/STEP/parts_global) — individual parts in installed coordinates
 - [`enclosure/Accessories`](enclosure/Accessories) — opening blanks, Robin Nano spacers, and center-support adapter
-- [`klipper`](klipper) — working printer, macro, Mainsail, and Moonraker configuration snapshots
+- [`klipper`](klipper) — reference printer, macro, Mainsail, and Moonraker configuration snapshots
 - [`docs/BUILD_GUIDE.md`](docs/BUILD_GUIDE.md) — printer and enclosure build overview
 - [`docs/WIRING.md`](docs/WIRING.md) — board assignments and CR Touch wiring
 - [`docs/ENCLOSURE_BOM.md`](docs/ENCLOSURE_BOM.md) — enclosure hardware list
@@ -30,7 +30,7 @@ The assembled STEP is the authoritative v1.0 geometry. The STL files are the rea
 
 ## Configuration warning
 
-The files in `klipper/` are a snapshot of the configuration used on this specific machine. They are reference material, not a universal drop-in configuration. Verify the board revision, pin assignments, thermistor types, motor directions, travel limits, probe offsets, heater behavior, and emergency shutdown before moving any axis or heating anything.
+The files in `klipper/` are reference material for this specific machine. They are not a universal drop-in configuration. Verify the board revision, pin assignments, thermistor types, motor directions, travel limits, probe offsets, heater behavior, and emergency shutdown before moving any axis or heating anything.
 
 At minimum, replace the MCU `serial:` path in `printer.cfg` with the path reported by your own controller.
 

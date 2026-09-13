@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International
+
+This repository's enclosure models and documentation are licensed under the Creative Commons Attribution 4.0 International Public License.
+
+License summary:
+- You may share and adapt the material for any purpose, including commercially.
+- You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
